@@ -6,10 +6,10 @@ Official supporting information for:
 <!--- To begin with controversial stimulus optimization in PyTorch, follow this tutorial: (coming soon)--->
 
 Stimuli and behavioral results for Experiment 1 (MNIST) can be found here:\
-https://github.com/kriegeskorte-lab/PNAS_2020_Controversial_Stimuli/tree/main/experiment_1_results
+https://github.com/kriegeskorte-lab/PNAS_2020_Controversial_Stimuli/tree/master/experiment_1_results
 
 Stimuli and behavioral results for Experiment 2 (CIFAR-10) can be found here:\
-https://github.com/kriegeskorte-lab/PNAS_2020_Controversial_Stimuli/tree/main/experiment_2_results
+https://github.com/kriegeskorte-lab/PNAS_2020_Controversial_Stimuli/tree/master/experiment_2_results
 
 <!---  (Experiment 1 (MNIST) controversial stimuli optimization code (TensorFlow 1.x + PyTorch) can be found here: (coming soon)--->
 
