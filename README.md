@@ -4,7 +4,7 @@ Official supporting information for:
 ## Controversial stimuli: Pitting neural networks against each other as models of human cognition
 Paper link: https://doi.org/10.1073/pnas.1912334117
 
-To begin with controversial stimulus optimization in PyTorch, follow this tutorial:\
+**To begin with controversial stimulus optimization in PyTorch, follow this tutorial:**\
 https://github.com/kriegeskorte-lab/controversial_stimuli_tutorial
 
 Stimuli and behavioral results for Experiment 1 (MNIST) can be found here:\
