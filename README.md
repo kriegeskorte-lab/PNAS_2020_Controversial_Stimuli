@@ -1,7 +1,7 @@
 Official supporting information for:
 
-#### Tal Golan, Prashant C. Raju & Nikolaus Kriegeskorte (2020) PNAS 
-## Controversial stimuli: Pitting neural networks against each other as models of human cognition
+> T. Golan, P. C. Raju, N. Kriegeskorte, **Controversial stimuli: Pitting neural networks against each other as models of human cognition**. PNAS 117, 29330–29337 (2020). DOI: 10.1073/pnas.1912334117
+
 Paper link: https://doi.org/10.1073/pnas.1912334117
 
 **To begin with controversial stimulus optimization in PyTorch, follow this tutorial:**\
