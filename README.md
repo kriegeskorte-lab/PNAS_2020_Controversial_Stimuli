@@ -4,7 +4,7 @@ Official supporting information for:
 
 Paper link: https://www.pnas.org/cgi/doi/10.1073/pnas.1912334117
 
-**To begin with controversial stimulus optimization in PyTorch, follow this tutorial:**\
+To begin with controversial stimulus optimization in PyTorch, follow this tutorial:\
 https://github.com/kriegeskorte-lab/controversial_stimuli_tutorial
 
 Stimuli and behavioral results for Experiment 1 (MNIST) can be found here:\
