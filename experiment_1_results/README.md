@@ -21,7 +21,19 @@ Stimuli and behavioral results for **experiment 1 (MNIST)** in
 | rt | time millisecond until trial completion.<sup>2</sup>|
 | trial | trial number (chronological). First trials were demo trials and are excluded from the data files.|
 
-<sup>1</sup>: The controversial stimuli were optimized such that *targeted_model_1* detects *targeted_class_1* but not *targeted_class_2*, and *targeted_model_2* detects *targeted_class_2* but not *targeted_class_1*. These four columns are left empty for natural CIFAR examples.
+### Model behavioral responses CSV - column definitions
+|column name| description |
+| -- | -- |
+|model | which neural network is it |
+|image | stimulus filename (without extension). These images are found in `stimuli_presented_in_behavioral_experiment`. |
+|response_category | Which of the ten categories this line describes (i.e., which output unit in the final layer is being read out).|
+|targeted_model_1 | for controversial stimuli, the identity of the first targeted model.<sup>1</sup> |
+|targeted_model_2 | for controversial stimuli, the identity of the second targeted model.<sup>1</sup> |
+|targeted_class_1 | for controversial stimuli, the identity of the first target class.<sup>1</sup> |
+|targeted_class_2 | for controversial stimuli, the identity of the second target class.<sup>1</sup> |
+|category_rating | 0.0 to 1.0 model-estimated class presence probability (i.e., sigmoid output) |
+
+<sup>1</sup>: The controversial stimuli were optimized such that *targeted_model_1* detects *targeted_class_1* but not *targeted_class_2*, and *targeted_model_2* detects *targeted_class_2* but not *targeted_class_1*. These four columns are left empty for natural MNIST examples.
 
 <sup>2</sup>: The reaction times are trial-specific, not response-category specific.
 
